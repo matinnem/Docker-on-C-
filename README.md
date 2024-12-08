@@ -18,6 +18,6 @@ In this repository I used C++ to apply a simple code which gets the base (float 
     ```
  6. after that you can insert the base and the power which you want to see their calculation.
     
-  **** please change the path\you\extract with the path you extract in your machine. Eg. C:\User\Asus\Downloads\cpp_power_image_making
+  **** please change the ```path\you\extract\cpp_power_image_making``` with the path you extract in your machine. Eg. C:\User\Asus\Downloads\cpp_power_image_making
   
   **** please delete <> in the fourth and fifth command and replace the content in <> with your favorite image name.
