@@ -20,4 +20,4 @@ In this repository I used C++ to apply a simple code which gets the base (float 
     
   **** please change the ```path\you\extract\cpp_power_image_making``` with the path you extract in your machine. Eg. C:\User\Asus\Downloads\cpp_power_image_making
   
-  **** please delete <> in the fourth and fifth command and replace the content in <> with your favorite image name.
+  **** please delete ```<>``` in the fourth and fifth command and replace the content in ```<>``` with your favorite image name.
